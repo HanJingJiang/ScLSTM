@@ -1,0 +1,1 @@
+[NMI,ARI,grps] = SinNLRR('data/yan.csv','label/yan.csv');
